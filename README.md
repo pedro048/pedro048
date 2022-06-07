@@ -2,6 +2,7 @@
 
 - 🖥️ Currently, I am working as a Machine Learning researcher
 - 📚 I am styding web development, Golang and Spanish
+- Languages I speak: 🇧🇷 🇺🇸  ⏳🇪🇸
 
 <div align="center">
   <a href="https://github.com/pedro048">
