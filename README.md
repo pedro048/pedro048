@@ -1,8 +1,8 @@
 # **Hey there! I am Pedro Victor, a brazilian 🇧🇷 Computer Engineer 👨‍💻 who loves programming and learn languages.**  
 
-- 🖥️ Currently, I am working as a Machine Learning researcher
-- 📚 I am styding web development, Golang and Spanish
-- Languages I speak: 🇧🇷 🇺🇸  ⏳🇪🇸
+- ### 🖥️ Currently, I am working as a Machine Learning researcher
+- ### 📚 I am styding web development, Golang and Spanish
+- ### Languages I speak: 🇧🇷 🇺🇸  ⏳🇪🇸
 
 <div align="center">
   <a href="https://github.com/pedro048">
